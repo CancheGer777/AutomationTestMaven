@@ -42,3 +42,4 @@ target/*
 *.prefs
 .DS_Store
 target/classes/datafiles/data.properties
+/target/
